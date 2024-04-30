@@ -9,8 +9,12 @@
         {
             "chain_name": "crossfi",
             "coingecko": "",
-            "api": ["http://154.26.128.126:1317"], 
-            "rpc": ["http://154.26.128.126:26657"],
+            "api": [
+                {"provider": "cimmynode", "address": "http://154.26.128.126:1317"}
+            ],
+            "rpc": [
+                {"provider": "cimmynode", "address": "http://154.26.128.126:26657"}
+            ],
             "snapshot_provider": "",
             "sdk_version": "0.46.12",
             "coin_type": "60",

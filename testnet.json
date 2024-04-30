@@ -10,10 +10,10 @@
             "chain_name": "crossfi",
             "coingecko": "",
             "api": [
-                {"provider": "zknodes", "address": "http://84.247.146.39:26317"}
+                {"provider": "cimmynode", "address": "http://84.247.146.39:26317"}
             ],
             "rpc": [
-                {"provider": "zknodes", "address": "http://84.247.146.39:26657"}
+                {"provider": "cimmynode", "address": "http://84.247.146.39:26657"}
             ],
             "snapshot_provider": "",
             "sdk_version": "0.47.4",
